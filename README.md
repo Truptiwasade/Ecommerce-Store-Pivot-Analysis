@@ -1,4 +1,5 @@
 📊Ecommerce-Store-Pivot-Analysis
+
 📌 Project Overview
 
 This project presents an interactive eCommerce Sales Dashboard built in Microsoft Excel to analyze sales performance and customer behavior for the year 2022. The dashboard transforms raw transactional data into meaningful insights using Pivot Tables, Pivot Charts, and slicers, enabling data-driven decision-making.
