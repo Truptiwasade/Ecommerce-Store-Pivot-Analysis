@@ -1,12 +1,12 @@
-📊Ecommerce-Store-Pivot-Analysis
+Ecommerce-Store-Pivot-Analysis
 
-📌 Project Overview
+Project Overview
 
 This project presents an interactive eCommerce Sales Dashboard built in Microsoft Excel to analyze sales performance and customer behavior for the year 2022. The dashboard transforms raw transactional data into meaningful insights using Pivot Tables, Pivot Charts, and slicers, enabling data-driven decision-making.
 
 The analysis covers sales trends, order volume, customer demographics, regional performance, and sales channels, offering a comprehensive view of business performance across multiple dimensions.
 
-🎯 Objectives
+Objectives
 
 Analyze monthly sales and order trends
 
@@ -20,7 +20,7 @@ Evaluate sales contribution by online channels
 
 Track order status (Delivered, Cancelled, Returned)
 
-🛠 Tools & Techniques Used
+Tools & Techniques Used
 
 Microsoft Excel
 
@@ -32,7 +32,7 @@ Data Cleaning & Formatting
 
 Interactive Dashboard Design
 
-📈 Key Insights
+Key Insights
 
 Monthly analysis highlights seasonal sales fluctuations and order trends.
 
@@ -46,7 +46,7 @@ Over 90% of orders are successfully delivered, indicating strong operational eff
 
 B2C transactions dominate overall sales compared to B2B.
 
-🧩 Dashboard Features
+Dashboard Features
 
 Dynamic filtering using Category, Channel, and Month slicers
 
@@ -58,6 +58,6 @@ Region-wise and city-wise sales analysis
 
 Clear visualization of order status distribution
 
-🚀 Conclusion
+Conclusion
 
 This project demonstrates strong skills in Excel-based data analysis, visualization, and business insight generation. The dashboard is designed to support stakeholders in identifying trends, optimizing sales strategies, and improving customer targeting.
